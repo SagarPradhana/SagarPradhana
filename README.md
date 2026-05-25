@@ -1,121 +1,128 @@
-# <div align="center">⚡ Sagar Pradhan ⚡</div>
-
 <div align="center">
 
-### Frontend Software Engineer • React.js • TypeScript • Tailwind CSS
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=120&section=header&text=Sagar%20Pradhan&fontSize=42&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2500&pause=800&color=7C3AED&center=true&vCenter=true&width=700&lines=Building+Modern+SaaS+Experiences;React.js+%7C+TypeScript+%7C+Tailwind+CSS;Frontend+Engineer+Focused+on+Scalable+UI;Crafting+Premium+Dashboards+%26+Web+Apps" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2500&pause=800&color=7C3AED&center=true&vCenter=true&width=700&lines=Frontend+Software+Engineer;React.js+%7C+TypeScript+%7C+Tailwind+CSS;Building+Modern+SaaS+Experiences;Crafting+Premium+Dashboards+%26+Web+Apps;Scalable+UI+Architecture+Enthusiast" alt="Typing SVG" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sagar-pradhan-a6b899271)
+[![Gmail](https://img.shields.io/badge/Gmail-111827?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sagar553pradhan@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=7C3AED&style=for-the-badge)](https://github.com/YOUR_USERNAME)
+
+<br/>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🧑‍💻 About Me
 
 ```ts
 const sagar = {
-  role: "Frontend Software Engineer",
-  experience: "2+ Years",
-  location: "India",
+  role        : "Frontend Software Engineer",
+  experience  : "2+ Years",
+  location    : "India 🇮🇳",
+  company     : "Kemsys Technologies Pvt. Ltd.",
   technologies: [
-    "React.js",
-    "TypeScript",
-    "JavaScript",
-    "Tailwind CSS",
-    "Next.js",
-    "Vite"
+    "React.js", "TypeScript", "JavaScript",
+    "Tailwind CSS", "Next.js", "Vite"
   ],
-  currentlyBuilding: "Enterprise Dashboards & SaaS Applications",
+  currentlyBuilding : "Enterprise Dashboards & SaaS Applications",
   focus: [
     "Scalable UI Architecture",
-    "Reusable Components",
+    "Reusable Component Systems",
     "Performance Optimization",
-    "Modern User Experiences"
-  ]
-}
+    "Modern User Experiences",
+  ],
+  philosophy  : "Every pixel has a purpose.",
+};
 ```
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### Frontend
+### ⚡ Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,vite" />
-
-### Backend & Tools
-
-<img src="https://skillicons.dev/icons?i=express,nodejs,git,github,postman,vscode" />
+### 🔧 Backend & Tools
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
 ---
 
-## 💼 Experience Highlights
+## 💼 Experience
 
 ### 🏢 Frontend Engineer — Kemsys Technologies Pvt. Ltd.
 
-✨ Built enterprise-grade HRMS platforms with role-based access control.
-
-✨ Developed scalable IoT monitoring dashboards with real-time telemetry.
-
-✨ Created vehicle monitoring systems with advanced filtering and analytics.
-
-✨ Built reusable React component systems for faster development workflows.
-
-✨ Integrated secure JWT authentication and multi-role user architecture.
+| # | Highlight |
+|---|-----------|
+| ⚡ | Built **enterprise-grade HRMS platforms** with role-based access control |
+| 📡 | Developed **scalable IoT monitoring dashboards** with real-time telemetry |
+| 🚗 | Created **vehicle monitoring systems** with advanced filtering & analytics |
+| 🧩 | Built **reusable React component libraries** for faster development workflows |
+| 🔐 | Integrated **JWT authentication** and multi-role user architecture |
 
 ---
 
 ## 🔥 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
 
-### 🚀 HRMS Platform
+| 🚀 HRMS Platform | 📡 IoT Monitoring Dashboard |
+|---|---|
+| Enterprise-level employee management with dashboards, RBAC, attendance tracking, and scalable React architecture. | Real-time device telemetry platform with analytics, widgets, reports, and live monitoring UI. |
+| `React` `TypeScript` `RBAC` `JWT` | `Real-time` `Analytics` `Vite` `Charts` |
 
-Enterprise-level employee management system with dashboards, RBAC, attendance tracking, and scalable React architecture.
+| 🚗 Vehicle Monitoring System | 🔐 Authentication System |
+|---|---|
+| Interactive dashboard for vehicle analytics, gateway monitoring, and responsive data visualization. | JWT-based authentication and role-based access control system built using React.js. |
+| `Next.js` `Tailwind CSS` `REST API` | `JWT` `React.js` `RBAC` `Security` |
 
-</td>
-<td width="50%">
-
-### 📡 IoT Monitoring Dashboard
-
-Real-time device telemetry platform with analytics, widgets, reports, and live monitoring UI.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🚗 Vehicle Monitoring System
-
-Interactive dashboard for vehicle analytics, gateway monitoring, and responsive data visualization.
-
-</td>
-<td width="50%">
-
-### 🔐 Authentication System
-
-JWT-based authentication and role-based access control system built using React.js.
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-## 📈 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=16&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=16&langs_count=8" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=20" />
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=16&date_format=M%20j%5B%2C%20Y%5D" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&border_radius=16&area=true" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
 
 </div>
 
@@ -123,40 +130,31 @@ JWT-based authentication and role-based access control system built using React.
 
 ## ⚡ Current Focus
 
-* Building modern SaaS dashboards
-* Advanced React.js architecture
-* High-performance frontend applications
-* Clean reusable UI systems
-* API integrations & scalable state management
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://linkedin.com/in/sagar-pradhan-a6b899271">
-  <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:sagar553pradhan@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-111827?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</div>
+```
+🔨  Building modern SaaS dashboards
+🧱  Advanced React.js architecture patterns
+⚡  High-performance frontend applications
+🎨  Clean & reusable UI component systems
+🔗  API integrations & scalable state management
+```
 
 ---
 
 ## 🎯 Frontend Philosophy
 
-> Building clean, scalable, and visually premium user experiences with modern frontend technologies.
+<div align="center">
+
+> *"Building clean, scalable, and visually premium user experiences*
+> *with modern frontend technologies — where every pixel has a purpose."*
+
+</div>
 
 ---
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=7C3AED&style=for-the-badge" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=100&section=footer" />
 
-### ⭐ Thanks for visiting my profile ⭐
+### ⭐ Thanks for visiting — drop a star if you like what you see! ⭐
 
 </div>
