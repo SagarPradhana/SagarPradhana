@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sagar-pradhan-a6b899271)
 [![Gmail](https://img.shields.io/badge/Gmail-111827?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sagar553pradhan@gmail.com)
 [![Phone](https://img.shields.io/badge/+91_9668260567-7C3AED?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919668260567)
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=7C3AED&style=for-the-badge)](https://github.com/YOUR_USERNAME)
+[![Profile Views](https://komarev.com/ghpvc/?username=SagarPradhana&label=Profile%20Views&color=7C3AED&style=for-the-badge)](https://github.com/YOUR_USERNAME)
 
 <br/>
 
@@ -136,16 +136,16 @@ const sagar: Developer = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=16&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=16&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SagarPradhana&show_icons=true&theme=tokyonight&hide_border=true&border_radius=16&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SagarPradhana&layout=compact&theme=tokyonight&hide_border=true&border_radius=16&langs_count=8" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=16" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=SagarPradhana&theme=tokyonight&hide_border=true&border_radius=16" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&border_radius=16&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SagarPradhana&theme=tokyo-night&hide_border=true&border_radius=16&area=true" />
 
 </div>
 
@@ -155,7 +155,7 @@ const sagar: Developer = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=SagarPradhana&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
 
 </div>
 
